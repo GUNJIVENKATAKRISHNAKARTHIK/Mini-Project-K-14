@@ -1,4 +1,4 @@
-# Chain-Of-Hope: Blockchain for Blood & Organ matching
+# Chain-Of-Hope: Blockchain for Ethial Blood & Organ matching
 
 ## Description
 This decentralized application (DApp) manages blood and organ donation using Ethereum smart contracts.
@@ -31,5 +31,6 @@ and record transactions securely on the blockchain.
    npm start
 
 5. Connect MetaMask to localhost (http://127.0.0.1:8545) and use Ganache accounts.
+
 
 6. Register donors and recipients, and test auto-matching and finalization.
